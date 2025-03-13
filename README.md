@@ -1,1 +1,1 @@
-# Web_Scrapaer_news_content
+# Web_Scraper_news_content
